@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Customer_Who_Viewed_This_item_Also_Viewed",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "The Extension allows displaying of additional products which was also viewed by other customers while visiting the current product.",
+    "authors": [
+    {
+        "name": "Zealousweb Technologies Pvt Ltd.",
+        "email": "dhruvi@zealousweb.net"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
