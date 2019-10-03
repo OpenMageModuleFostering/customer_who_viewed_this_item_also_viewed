@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 The Extension allows displaying of additional products which was also viewed by other customers while visiting the current product.
